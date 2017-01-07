@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## My repos
 
-You can use the [editor on GitHub](https://github.com/faheel/faheel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Blog](blog)
+My first ever blog, built using Django
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Algos](algos)
+Implementation of well-known (and some rare) algorithms, mostly in C++
 
-### Markdown
+### [EMS](ems)
+Examination Management System
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Project Euler](project-euler)
+Solutions to problems on ProjectEuler.net, in Python and C++
 
-```markdown
-Syntax highlighted code block
+### [Codeforces](codeforces)
+Solutions to problems on Codeforces.com, in C++
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/faheel/faheel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [CodeChef](codechef)
+Solutions to problems on CodeChef.com, in C++
