@@ -9,6 +9,9 @@ Implementation of well-known (and some rare) algorithms, mostly in C++
 ### [EMS](ems)
 Examination Management System
 
+### [Project Sunshine](project-sunshine)
+A weather app for Android, made as part of Udacity's Developing Android Apps course
+
 ### [Project Euler](project-euler)
 Solutions to problems on ProjectEuler.net, in Python and C++
 
